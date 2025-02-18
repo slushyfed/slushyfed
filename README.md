@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left"></p>
+<p align="left">13, 5'10 from Canada, BJJ, Coding, Day Trading since 2020.</p>
 
 ###
 
