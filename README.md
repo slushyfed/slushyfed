@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://i.seadn.io/s/raw/files/9e75b1fe5f0c8c6509d51c0b03bf952e.gif?auto=format&dpr=1&w=1000](https://pbs.twimg.com/profile_images/1819246389110476800/zdc_QkQi_400x400.jpg)"  />
+  <img height="150" src="https://i.seadn.io/s/raw/files/9e75b1fe5f0c8c6509d51c0b03bf952e.gif?auto=format&dpr=1&w=1000](https://pbs.twimg.com/profile_images/1819246389110476800/zdc_QkQi_400x400.jpg)"  />
 </div>
 
 ###
